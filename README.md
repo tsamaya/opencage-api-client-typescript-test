@@ -9,15 +9,15 @@ This repo has been bootstrap using [TDSX](https://tsdx.io/)
 clone the repo
 
 ```bash
-$ yarn
+$ pnpm install
 ```
 
 ## test
 
 as it is a test, the only useful task is
 
-```
-$ yarn test
+```bash
+$ pnpm test
 ```
 
 ## Contributing
