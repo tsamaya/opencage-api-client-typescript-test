@@ -2,7 +2,6 @@
 
 This a test using the new TypeScript definition for the [opencage-api-client](https://github.com/tsamaya/opencage-api-client) library.
 
-This repo has been bootstrap using [TDSX](https://tsdx.io/)
 
 ## get started
 

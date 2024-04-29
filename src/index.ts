@@ -7,6 +7,6 @@ export const doGeocode = async () => {
     no_annotations: 1,
   };
   const result = await geocode(input);
-  console.log(result);
+  console.log(JSON.stringify(result,null,2));
   return result;
 };
