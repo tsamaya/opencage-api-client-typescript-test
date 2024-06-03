@@ -31,6 +31,6 @@
     "vitest": "^1.5.2"
   },
   "dependencies": {
-    "opencage-api-client": "1.0.5"
+    "opencage-api-client": "1.0.7"
   }
 }
