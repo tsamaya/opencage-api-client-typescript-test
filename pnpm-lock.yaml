@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       opencage-api-client:
-        specifier: 1.1.0
-        version: 1.1.0(encoding@0.1.13)
+        specifier: 1.2.0
+        version: 1.2.0(encoding@0.1.13)
     devDependencies:
       '@eslint/eslintrc':
         specifier: ^3.1.0
@@ -643,8 +643,8 @@ packages:
     resolution: {integrity: sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==}
     engines: {node: '>=0.4.0'}
 
-  dotenv@16.4.7:
-    resolution: {integrity: sha512-47qPchRCykZC03FhkYAhrvwU4xDBFIj1QPqaarj6mdM/hgUzfPHcpkHJOn3mJAufFeeAxAzeGsr5X0M4k6fLZQ==}
+  dotenv@17.0.1:
+    resolution: {integrity: sha512-GLjkduuAL7IMJg/ZnOPm9AnWKJ82mSE2tzXLaJ/6hD6DhwGfZaXG77oB8qbReyiczNxnbxQKyh0OE5mXq0bAHA==}
     engines: {node: '>=12'}
 
   dunder-proto@1.0.1:
@@ -985,8 +985,8 @@ packages:
   nwsapi@2.2.20:
     resolution: {integrity: sha512-/ieB+mDe4MrrKMT8z+mQL8klXydZWGR5Dowt4RAGKbJ3kIGEx3X4ljUo+6V73IXtUPWgfOlU5B9MlGxFO5T+cA==}
 
-  opencage-api-client@1.1.0:
-    resolution: {integrity: sha512-1BMw/wK1f5mdN8x9gUkGH5R/Dv5utvZlQO4LcXmT7gjJlXLojto3csXOco3VsbJCsEyzUer6TAmv6jdMfK+83Q==}
+  opencage-api-client@1.2.0:
+    resolution: {integrity: sha512-vrMs4V2XBwuD8VFJ/1IY59N9FzcSGDkRvYOm2QQhJJojh+IuiU5M6caN5rcDN1s1cLOdcPDPPXbsdqaQFppRZA==}
 
   optionator@0.9.4:
     resolution: {integrity: sha512-6IpQ7mKUxRcZNLIObR0hz7lxsapSSIYNZJwXPGeF0mTVqGKFIXj1DQcMoT22S3ROcLyY/rz0PWaWZ9ayWmad9g==}
@@ -1857,7 +1857,7 @@ snapshots:
   delayed-stream@1.0.0:
     optional: true
 
-  dotenv@16.4.7: {}
+  dotenv@17.0.1: {}
 
   dunder-proto@1.0.1:
     dependencies:
@@ -2267,10 +2267,10 @@ snapshots:
   nwsapi@2.2.20:
     optional: true
 
-  opencage-api-client@1.1.0(encoding@0.1.13):
+  opencage-api-client@1.2.0(encoding@0.1.13):
     dependencies:
       cross-fetch: 4.1.0(encoding@0.1.13)
-      dotenv: 16.4.7
+      dotenv: 17.0.1
     transitivePeerDependencies:
       - encoding
 
