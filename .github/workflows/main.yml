@@ -13,7 +13,7 @@ jobs:
           version: latest # https://pnpm.io/installation#compatibility
 
       - name: Use Node 20
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 22.x
 
