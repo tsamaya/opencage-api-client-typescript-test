@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       opencage-api-client:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.1.2
+        version: 2.1.2
     devDependencies:
       '@eslint/eslintrc':
         specifier: ^3.1.0
@@ -672,8 +672,8 @@ packages:
   obug@2.1.1:
     resolution: {integrity: sha512-uTqF9MuPraAQ+IsnPf366RG4cP9RtUi7MLO1N3KEc+wb0a6yKpeL0lmk2IB1jY5KHPAlTc6T/JRdC/YqxHNwkQ==}
 
-  opencage-api-client@2.1.0:
-    resolution: {integrity: sha512-YeYuAZeaOtzMeiHHdBztSvKdANmJ9d6ZNfGF3H6WAPl+XlIM0ck0rWzkDMFmHjtyKXTrK2vokcfh5hiQzDZNDQ==}
+  opencage-api-client@2.1.2:
+    resolution: {integrity: sha512-3CexX9qDn1EZQbYZkyTB5KkTV5gpy9y7byC79kexZkw5QHoqt3sX9g9D9dpWON/bMouwrTE7YJg+aHm1Gm7Psw==}
 
   optionator@0.9.4:
     resolution: {integrity: sha512-6IpQ7mKUxRcZNLIObR0hz7lxsapSSIYNZJwXPGeF0mTVqGKFIXj1DQcMoT22S3ROcLyY/rz0PWaWZ9ayWmad9g==}
@@ -1493,7 +1493,7 @@ snapshots:
 
   obug@2.1.1: {}
 
-  opencage-api-client@2.1.0: {}
+  opencage-api-client@2.1.2: {}
 
   optionator@0.9.4:
     dependencies:
