@@ -1,4 +1,5 @@
-import opencage, { GeocodingRequest } from 'opencage-api-client';
+import opencage from 'opencage-api-client';
+import type { GeocodingRequest } from 'opencage-api-client';
 
 export const doGeocode = async () => {
   const input: GeocodingRequest = {
