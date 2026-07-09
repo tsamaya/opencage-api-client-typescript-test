@@ -33,7 +33,7 @@
     "vitest": "^4.0.0"
   },
   "dependencies": {
-    "opencage-api-client": "2.1.2"
+    "opencage-api-client": "2.2.0"
   },
   "packageManager": "pnpm@11.10.0"
 }
