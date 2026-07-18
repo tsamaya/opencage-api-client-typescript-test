@@ -35,5 +35,5 @@
   "dependencies": {
     "opencage-api-client": "2.2.0"
   },
-  "packageManager": "pnpm@11.11.0"
+  "packageManager": "pnpm@11.13.1"
 }
